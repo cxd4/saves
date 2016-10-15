@@ -1,0 +1,33 @@
+Here's a basic summary, of file 1.
+
+       Course        JgsPc MNote HncPc Jinjo CPage JSilo Glowb   Time
+-------------------- ----- ----- ----- ----- ----- ----- ----- --------
+Spiral Mountain                            1     1             00:20:08
+Isle O' Hags            10   100     1     4           4     1 01:36:28
+Mayahem Temple          10   100     3     5     3     3     2 02:13:28
+Glitter Gulch Mine      10   100     3     5     3     2     2 01:23:51
+Witchyworld             10   100     3     5     3     3     2 02:12:38
+Jolly Roger's Lagoon    10   100     3     5     3     3     2 01:49:45
+Terrydactyland          10   100     3     5     3     3     2 02:10:56
+Grunty Industries       10   100     3     5     3     3     2 03:22:25
+Hailfire Peaks          10   100     3     5     3     2     2 02:31:21
+Cloud Cuckooland        10   100     3     5     3     1     2 02:07:08
+Cauldroon Keep                                                 00:32:53
+All                     90   900    25    45    25    24    17 20:21:01
+
+Cheats data and whether each one is enabled or not,
+
+ID              Name              b
+-- ------------------------------ -
+01 Double maximum feathers.       0
+02 Double maximum eggs.           0
+03 No energy loss from falling.   0
+04 Automatic energy regain.       0
+05 Jolly's jukebox.               1
+06 Jiggywiggy's temple signposts. 1
+07 Fast Banjo.                    1
+08 Fast baddies.                  0
+09 No energy or air loss.         1
+10 Infinite eggs and feathers.    1
+11 Open up all world doors.       1
+12 Enable homing eggs.            0

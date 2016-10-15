@@ -1,0 +1,4 @@
+The GBA version is far weaker than the PSX version in terms of search depth,
+but it is still a problem for some to unlock all the players through success
+in competing between countries.  I've won all games through Kasparov, so all
+players are unlocked now.

@@ -1,0 +1,9 @@
+Hello this is my very first PSX save and also one of the only PSX games I've
+ever emulated. :) All I know is that this save state was created using the
+"pSX" emulator.  Virtual Kasparov for the PSX does not save any form of
+in-game progress, but it can use a memory card device to save played-out
+games.  Instead this save state has everything set, track one song looped to
+repeat on save state load, cursor on square a1 of the chess board in classic
+2-D view for clarity, opening book disabled for software testing, and the
+level set to Level 23 for maximal play quality (may take about 15 minutes per
+move in many positions so feel free to reduce).

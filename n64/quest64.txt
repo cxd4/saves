@@ -1,0 +1,13 @@
+After getting the key to King Mammon's imprisonment from Shannon, I died in
+the battle so that I could go back to Brannoch to save.
+
+This file supports all releases of Holy Magic Century (PAL) and Quest 64
+(NTSC, USA) but not the Japanese release because of some strong differences.
+
+HP and MP are both 500:500.
+Defense and Agility are both maxed at 255:255.
+
+All of Celtland's spirits are collected (with the obvious need of hacking the
+save binary), so you can cast any spell now.
+
+A lot of recovery or other battle-use items are stocked up in the inventory.

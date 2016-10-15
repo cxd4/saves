@@ -1,0 +1,3 @@
+This controller pak file supports the USA and Europe versions of the game.
+Through playing till the end, hard mode with extras have been unlocked.  All
+four file slots are set to start as a new game.

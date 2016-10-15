@@ -1,0 +1,90 @@
+Mushroom Bank
+     Item      b
+-------------- -
+Plus Block     0
+Minus Block    0
+Speed Block    1
+Slow Block     1
+Event Block    1
+Warp Block     0
+No Koopa       0
+No Boo         0
+Coin Box       1
+Lucky Box      0
+Casino Box     0
+Credits
+
+Mini-Game Island
+Player 1:  Mario
+Player 2:  Luigi
+Finished:  50/50
+Lives   :  31
+Coins   :  96
+
+Mini-Game House
+Mecha Fly Guy
+Flight:  00'04"86
+Spins :  34 decispins per second
+
+All Mini-Games bought or found.
+     Mini-Game       Record
+------------------- --------
+Slot Car Derby 1    00'22"03
+Slot Car Derby 2    00'31"40
+Bobsled Run         01'00"06
+Handcar Havoc       00'34"40
+Bumper Ball Maze 1  00'28"30
+Bumper Ball Maze 2  00'34"20
+Bumper Ball Maze 3  00'36"46
+
+Option House
+Sound Lever:  Stereo
+Talking Parrot
+Jukebox
+CR        Track Label
+-- -------------------------
+A1 Opening
+A2 Mario Party Theme
+A3 Playing the Game
+A4 Peaceful Mushroom Village
+A5 Mushroom Bank Theme
+A6 Option House Theme
+B1 Mushroom Shop Theme
+B2 Mini-Game House Theme
+B3 Traveling the Warp Pipe
+B4 Adventure Begins
+B5 Where Have the Stars Gone
+B6 Jungle Adventure
+C1 Birthday Cake
+C2 Tropical Island
+C3 Battle Canyon
+C4 Engine Room
+C5 Rainbow Castle
+C6 Playing a Mini-Game!
+D1 In the Mushroom Forest
+D2 Ducking and Dodging
+D3 Full of Danger
+D4 The Wide, Wide Ocean
+D5 Coins of the World
+D6 Taking Coins
+E1 Let's Go Lightly
+E2 Faster Than All
+E3 The Room Underground
+E4 Slowly, Slowly
+E5 Can it be done?
+E6 Dodging Danger
+F1 Saving Courage
+F2 Let's Limbo!
+F3 Hit or Miss Chance Game
+F4 Koopa Troopa Theme
+F5 Bowser's Theme
+F6 Outcome of Adventure
+G1 Magma Mountain
+G2 The Power of Stars
+G3 Ending
+G4 Mini-Game Stadium Theme
+G5 Mini-Game Island Theme
+G6 The Stolen Star
+H1 Where's the Star?
+H2 Eternal Star
+H3 Everyone's a Super Star!

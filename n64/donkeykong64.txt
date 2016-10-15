@@ -1,0 +1,5 @@
+I've noticed how many people wanted a DK64 native save, so I took the liberty
+to play through the entire game and get 101% completion rate.
+
+So here it is, an .eep save-file for Donkey Kong 64 (U) [!], with 101%
+completion rate and everything unlocked.

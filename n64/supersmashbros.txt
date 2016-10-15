@@ -1,0 +1,10 @@
+Here is a master save for SSB.  All stats or what record data particular to
+your profile of having played the game are erased.  (If anyone really wants
+to see my SSB64 stats I can just copy off the database on my N64 cart, but I
+didn't repeat every attitude of fun in an emulator.)
+
+What's important is that the following things are unlocked.
+    New battle arena, "Mushroom Kingdom"
+    Sound Test feature
+    Item Switch feature
+    Jigglypuff, Captain Falcon, Ness, and Luigi
