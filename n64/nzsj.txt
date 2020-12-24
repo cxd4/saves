@@ -1,0 +1,55 @@
+This data will only load for the first-ever Japanese release of Zelda Majora's
+Mask--not the USA/Europe releases, not the (J) 1.1 good dump, only (J) 1.0.
+
+Reason why is that this is the only version of the game to use the old format
+for save data (including but not limited to the ability to use up to 3 files
+as in File 1, File 2, File 3 and not just 1 and 2, the inability to save by
+using owl statues, and several beta item codes for the pause subscreen that
+were removed in the USA, European, and subsequent Japanese releases).
+
+Besides the leaked debug ROM in PAL, this is also the original and only ROM
+version to still have the test scene still leftover along with other stuff.
+(Not to mention all the bugs...I don't think TCRF/Wiki even lists them all.)
+
+The first file (nzsj-1.fla) is broken down as follows:
+  * File 1:  Automatic save done internally by the game without using the
+             Song of Time.  Collected 99 rupees before entering Termina.
+  * File 2:  Recovered the Ocarina of Time and collected the first four
+             heart pieces possible while stuck beginning as Deku Link.
+  * File 3:  Defeated Odolwa and learned the double-radius sword spin.
+             Kafei/Anju quest:  Completed up to Postman's Hat reward.
+
+The second file (nzsj-2.fla) I have allocated as follows:
+  * File 1:  Defeated Goht and enhanced magic meter reservoire.
+             Kafei/Anju quest:  Nullified by Blast Mask reward.
+  * File 2:  Defeated Gyorg and doubled defensive power.
+             Kafei/Anju quest:  Nullified by shooting Sakon in the ass with an
+             arrow and blowing up the Big Bomb Bag AND him.  This precludes
+             most rewards but not the All-Night Mask, which was all I wanted.
+  * File 3:  Defeated Twinmold and acquired the Great Fairy Sword.
+             Kafei/Anju quest:  Completed - Couple's Mask + 6th empty bottle
+
+Except for the heart piece requiring the Couple's Mask (which itself takes
+forever to get), all heart pieces are collected sans those on the moon,
+which you get to see all the first-time cinema for yourself because I didn't go
+there yet.  ...And, the underground heart piece in the fields outside Great Bay.
+One of those things I assumed I'd gotten already but found out just now I didn't
+but am too lazy to fix.  It's easy; collect it yourself.
+
+Only reason why I knew that was because I ran the following command on my save
+file using the Zelda Majora's Mask save editor program I wrote years back.
+
+./zs ~/saves/n64/nzsj-2.fla -@ 2 -v
+
+Output:
+
+Missing heart pieces:
+	16.  Mayor Dotour (Nintendo Power #8)
+	21.  Bio Deku Baba Grotto (Nintendo Power #21)
+	49.  Moon Dungeons (Deku) (Nintendo Power #49)
+	50.  Moon Dungeons (Goron) (Nintendo Power #50)
+	51.  Moon Dungeons (Zora) (Nintendo Power #51)
+	52.  Moon Dungeons (Link) (Nintendo Power #52)
+
+And no, neither of the files uploaded by me were touched by my save editor,
+by any hacking or by any cheating.
