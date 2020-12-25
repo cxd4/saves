@@ -1,0 +1,15 @@
+Unlike the USA and PAL/European versions of this game, the save format in the
+Japanese version of Quest 64, "Eletale Monsters", uses some slightly different
+formatting in the save file, so this save file won't load on the USA/PAL ROMs.
+
+As much as this game sucks, they really did start to make progress in making
+it realistic enough to play in the Japanese version.  They added more cinemas,
+more special effects, more dialogues, and--would you believe it--made the
+level-up and other stats accumulation go at a plausible rate.  Makes it kind
+of halfway possible to get all 50 spirits of each of the 4 elements without
+resorting to cheat codes (in USA/PAL versions it was just too damn infeasible).
+
+Since N64 controller pak file can store up to 16 notes (2 pages each in this
+game's case), I made full use of the MPK file to store a log of all progress.
+The controller pak file therefore has no space left but who cares; just
+bypass that warning every time ROM starts up.  Select any of the 16 saves.
