@@ -1,9 +1,0 @@
-I remember getting this game from a friend, but I had a long road to
-collecting all of the parts for the racing cars.  Even GameFAQs had a lot of
-resources leaving blanks and mysteries as to how to unlock this or that.
-
-Everything is played through, and all parts are in this A64 note export.  A64
-files are imported into memory paks through N-Rage's DirectInput.  You can
-also edit this file with a text editor to change the header around to match
-the output of the versions of this game released in other countries if you
-are playing the Japan or Europe version.
